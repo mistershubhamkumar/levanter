@@ -21,7 +21,7 @@ bot.addCommand(
     })
     const [date, time] = getDate()
     let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+			Mr Shubham 
 ╰────────────────╯
 
 ╭────────────────
