@@ -1,4 +1,4 @@
-# WhatsApp MD User Bot
+# SHUBHAM X MD User Bot
 
 A powerful and feature-rich WhatsApp bot supporting multiple sessions, designed for seamless automation and enhanced user experience.
 
@@ -79,7 +79,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 4. **Clone the Repository and Install Dependencies:**
 
    ```sh
-   git clone https://github.com/lyfe00011/levanter botName
+   git clone https://github.com/mistershubhamkumar/levanter botName
    cd botName
    yarn install
    ```
